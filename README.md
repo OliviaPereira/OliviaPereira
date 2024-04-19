@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @OliviaPereira
+- 👀 I’m interested in coding, EDA, and predictive analytics.
+- 🌱 I’m currently learning data science, focusing on data analysis.
+- 💞️ I’m looking to collaborate on anything to improve EDA and predictive analysis skills!
+- 📫 How to reach me olivia.pereira97@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I completed the Google Advanced Data Analytics Course in 1 week.
